@@ -19,17 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.saucedemo.com/')
-
-WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_user-name (2) (1)'), 'error_user')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_password (2) (1)'), 'qcu24s4901FyWDTwXGr6XA==')
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_login-button (2) (1)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Backpack (1)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart (1) (1)'))
+WebUI.navigateToUrl('https://demo.applitools.com/')
 
 WebUI.closeBrowser()
 
