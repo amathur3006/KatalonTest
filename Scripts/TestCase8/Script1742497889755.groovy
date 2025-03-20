@@ -19,9 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://github.com/cypress-io/cypress-realworld-app')
 
-WebUI.setText(findTestObject('Object Repository/Page_Google/textarea_Sign in_q'), 'selenium')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_GitHub - cypress-iocypress-realworld-a_ad1573/a_cypress-realworld-app'), 
+    'cypress-realworld-app')
 
 WebUI.closeBrowser()
 

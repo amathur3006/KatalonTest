@@ -19,11 +19,14 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXH0vVtMCbgi3RpH-FuVPupQBn-uXac0smu6y1w_wzpsq0BjTqjNQ1oMqg3JqsZV6eS9pO1zDg-g&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S288740341%3A1742496267266320')
+WebUI.navigateToUrl('https://ultimateqa.com/automation')
 
-WebUI.click(findTestObject('Object Repository/Page_Gmail/div_Learn more about using Guest mode_VfPpk_8ca253'))
+WebUI.click(findTestObject('Object Repository/Page_Automation Practice - Ultimate QA/a_Big page with many elements'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Gmail/div_Enter an email or phone number'), 'Enter an email or phone number')
+WebUI.click(findTestObject('Object Repository/Page_Complicated Page - Ultimate QA/a_Button'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Complicated Page - Ultimate QA/span_Section of Buttons'), 
+    'Section of Buttons')
 
 WebUI.closeBrowser()
 
