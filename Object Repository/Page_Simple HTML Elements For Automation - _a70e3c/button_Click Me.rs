@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Click Me</name>
+   <tag></tag>
+   <elementGuidId>e095a859-a5fd-4052-a412-4b5c32b1691b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='button1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#button1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Click Me!&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a4081170-df29-46fe-bafa-47aed5a6823e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>button1</value>
+      <webElementGuid>2de5f0da-276e-4af0-ac45-4f8995cb2642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>b02b2c96-10d7-48ed-b74a-2f4282e272cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click Me!</value>
+      <webElementGuid>c601eb4f-0fbe-46dc-9213-80d366acc2f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-909&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;et-l et-l--post&quot;]/div[@class=&quot;et_builder_inner_content et_pb_gutters3&quot;]/div[@class=&quot;et_pb_section et_pb_section_0 et_section_regular&quot;]/div[@class=&quot;et_pb_row et_pb_row_0&quot;]/div[@class=&quot;et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child&quot;]/div[@class=&quot;et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light&quot;]/div[@class=&quot;et_pb_text_inner&quot;]/form[1]/button[@id=&quot;button1&quot;]</value>
+      <webElementGuid>8c14030e-2c55-4d42-a199-2a9ef6e6a6d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='button1']</value>
+      <webElementGuid>f83d5923-b916-4314-927b-97573a015c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-909']/div/div/div/div/div/div/div/div/form/button</value>
+      <webElementGuid>0c1b0a8e-08b8-4669-9250-5153ccf903e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I want a free DISCOVERY SESSION'])[2]/following::button[2]</value>
+      <webElementGuid>49292f42-29f5-478a-b983-aa4ae2159fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java SDET Academy'])[2]/following::button[2]</value>
+      <webElementGuid>cd34c0e4-7ec1-4f3d-8780-3b7810bf5158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Raise'])[1]/preceding::button[1]</value>
+      <webElementGuid>87047940-dd3a-4749-af29-cb5aa709156b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click Me!']/parent::*</value>
+      <webElementGuid>6afeb49e-5179-4771-9ce0-25598337990e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>2d911a7f-fd6b-41df-8d38-bd38cec196b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'button1' and @type = 'submit' and (text() = 'Click Me!' or . = 'Click Me!')]</value>
+      <webElementGuid>9ecff49d-47d0-4189-87e2-4e870211621f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
